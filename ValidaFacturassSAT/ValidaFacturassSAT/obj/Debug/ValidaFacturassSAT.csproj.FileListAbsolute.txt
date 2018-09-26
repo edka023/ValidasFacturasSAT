@@ -1,0 +1,7 @@
+C:\Users\EORTEGA\Documents\Visual Studio 2017\Projects\ValidaFacturassSAT\ValidaFacturassSAT\bin\Debug\ValidaFacturassSAT.exe.config
+C:\Users\EORTEGA\Documents\Visual Studio 2017\Projects\ValidaFacturassSAT\ValidaFacturassSAT\bin\Debug\ValidaFacturassSAT.exe
+C:\Users\EORTEGA\Documents\Visual Studio 2017\Projects\ValidaFacturassSAT\ValidaFacturassSAT\bin\Debug\ValidaFacturassSAT.pdb
+C:\Users\EORTEGA\Documents\Visual Studio 2017\Projects\ValidaFacturassSAT\ValidaFacturassSAT\obj\Debug\ValidaFacturassSAT.csprojResolveAssemblyReference.cache
+C:\Users\EORTEGA\Documents\Visual Studio 2017\Projects\ValidaFacturassSAT\ValidaFacturassSAT\obj\Debug\ValidaFacturassSAT.csproj.CoreCompileInputs.cache
+C:\Users\EORTEGA\Documents\Visual Studio 2017\Projects\ValidaFacturassSAT\ValidaFacturassSAT\obj\Debug\ValidaFacturassSAT.exe
+C:\Users\EORTEGA\Documents\Visual Studio 2017\Projects\ValidaFacturassSAT\ValidaFacturassSAT\obj\Debug\ValidaFacturassSAT.pdb
